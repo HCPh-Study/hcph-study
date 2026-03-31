@@ -1,0 +1,5 @@
+[submodule "inputs/data"]
+	path = inputs/data
+	url = /data/datasets/hcph
+	datalad-id = 73493bd6-b271-4177-b201-97fca030a99f
+	datalad-url = /data/datasets/hcph
