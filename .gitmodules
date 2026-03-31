@@ -1,5 +1,5 @@
 [submodule "inputs/data"]
 	path = inputs/data
-	url = /data/datasets/hcph
+	url = git@github.com:TheAxonLab/hcph-dataset.git
 	datalad-id = 73493bd6-b271-4177-b201-97fca030a99f
-	datalad-url = /data/datasets/hcph
+	datalad-url = git@github.com:TheAxonLab/hcph-dataset.git
